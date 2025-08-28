@@ -3,9 +3,12 @@
 A simple React app that checks if an email or text is spam using the RapidAPI **Spam Detector API**.
 
 ## 🚀 Features
-- Paste any email/text and check if it’s spam
-- Shows spam score and suggestions
-- Built with React + Axios
+- Paste any email/text and check if it’s spam  
+- Shows spam score and suggestions  
+- Built with React + Axios  
+
+## 🔗 Live Demo
+👉 [Try it here](https://spam-check-er.netlify.app/)
 
 ## 🛠️ How to Run Locally
 1. Clone this repo:
